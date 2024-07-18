@@ -39,10 +39,10 @@ The project consists of the following main classes:
 ## File Structure
 The project utilizes several files to store and manage data:
 
-- credentials.txt: This file stores the username and password information of all registered users.
-- userDB.txt: This file holds the account details of all registered users, such as their account number, name, and contact information.
-- balanceDB.txt: This file maintains the account balance for all users.
-- acc_[accNo].txt: This file maintains the transaction of each account.
+- `credentials.txt:` This file stores the username and password information of all registered users.
+- `userDB.txt:` This file holds the account details of all registered users, such as their account number, name, and contact information.
+- `balanceDB.txt:` This file maintains the account balance for all users.
+- `acc_[accNo].txt:` This file maintains the transaction of each account.
 
 # Our Team 
 
